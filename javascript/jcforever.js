@@ -8,7 +8,7 @@ heartbeatAudio.playbackRate = 0.77;
 
 bovBadhu.addEventListener('click',()=>{
     jsConfetti.addConfetti({
-        emojis: ["🤍","❤️️"],
+        emojis: ['🤍','❤️️'],
         emojiSize: 20,
         confettiNumber: 800,
       })
